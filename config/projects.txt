@@ -1,0 +1,14 @@
+app/app1
+app/app2
+app/app3
+
+framework/fm1
+framework/fm2
+framework/fm3
+
+paas/app1
+paas/app2
+paas/app3
+
+ui/app1
+ui/app2

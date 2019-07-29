@@ -1,0 +1,16 @@
+{
+  "name": "yoo-svn2git",
+  "version": "1.0.0",
+  "description": "svn project to git by nodejs",
+  "main": "main.js",
+  "dependencies": {
+    "shelljs": "^0.3.0",
+    "yargs": "^3.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yohann",
+  "license": "ISC"
+}
